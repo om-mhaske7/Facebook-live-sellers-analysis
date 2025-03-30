@@ -18,6 +18,15 @@ This project explores the Facebook Live Sellers dataset from Thailand (UCI ML Re
 - `dataset/`: Dataset used for analysis (only if license allows sharing).
 - `plots/`: Any key visuals like elbow plots, bar graphs, etc.
 
+## 📁 Dataset
+
+The dataset used in this project is **Facebook Live Sellers in Thailand**, originally from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand).
+
+To use this notebook, please download the dataset from the link below and place it in a folder named `dataset/`:
+
+🔗 [Download from Google Drive](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID)](https://drive.google.com/file/d/1gme1wCoCoUn9Sn6vaukVNV2alBxjLk2D/view?usp=sharing )
+
+
 ## 🛠️ Tools Used
 
 - Python (Pandas, Seaborn, Matplotlib, Scikit-learn)
